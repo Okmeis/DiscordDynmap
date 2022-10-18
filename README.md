@@ -8,7 +8,7 @@ Display A Selected Area Of Your Minecrafts Map On Discord every X minutes.
 ## Requirements
 - a with `discord.py` compatible version of Python and other imports which are listed `DynmapDownloader.py` and `DiscordDynmap.py`
 - a minecraft server with a working dynmap plugin
-- A discord application you can connect it to. If you don't have one, you can create one here: https://discord.com/developers/applications
+- a discord application you can connect it to. If you don't have one, you can create one here: https://discord.com/developers/applications
 <br/>Example: The bot got tested under following requirements:
 - Python 3.7.4 for the discord bot
 - Plugin `Dynmap-3.3.2-spigot.jar` on a minecraft server for 1.18.1
