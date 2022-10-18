@@ -1,6 +1,6 @@
 # DiscordDynmap
 ## Purpose
-Display A Selected Area Of Your Minecrafts Map On Discord every X minutes.
+Display A Selected Area Of Your Minecraft Servers Map On Discord every X minutes.
 <br/>
 <br/>Feel free to modify it however you like and host it on your own discord server.
 <br/>I have nothing to do with the developer/s of dynmap, I just appreciate their plugin and thought it would be nice if minecraft players or communities could see their map/s in an extra discord channel.
