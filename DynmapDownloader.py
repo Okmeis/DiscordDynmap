@@ -1,7 +1,7 @@
 # author: Okmeis
 # date: 18.10.2022
 # version 1.0.0
-# desc: This file exists to downloads pictures which are fragments of the minecraft livemap
+# desc: This file exists to download pictures which are fragments of the minecraft livemap
 #       and returns a combined image of your wished map area.
 
 from PIL import Image
